@@ -4,7 +4,7 @@ from tkinter import messagebox, ttk
 #import os
 
 a = Tk()
-a.title("Clicker game by TerminalGoat[2x27t]")
+a.title("Clicker game by TerminalGoat")
 a.geometry("400x500")
 a.resizable(height = False, width = False)
 ####### main ##########################################
